@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "7527916d54c835eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f68893debb85b601",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c7b58b9f359157b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BLOCKCHAIN/Blockchain College Project ⛓️.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b687d5af9a8f0ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Git Cheat Sheet 📝.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b365d1cd86619fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d5c3b72872529a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccde57aa72c36424",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "af1419f391ee85d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cef2decd22aeda80",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8bb2d1855b7f37ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e2d54f28d2f8f37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "204dc306dcad716e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git/Git Cheat Sheet 📝.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bc1685e7cac8a52f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Git/Git Cheat Sheet 📝.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "91d7c08e9b42b617",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "58faea2ed1b4f461",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git/Git Cheat Sheet 📝.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ccde57aa72c36424",
+  "lastOpenFiles": [
+    "Notes",
+    "Git/Images/Pasted image 20230826194230.png",
+    "Git/Git Cheat Sheet 📝.md",
+    "Git/Images",
+    "BLOCKCHAIN/Blockchain College Project ⛓️.md",
+    "Git",
+    "College/SEM - 7/Blockchain/Obsidian Vault/Block Chain Project/README.md",
+    "College/SEM - 7/Blockchain/Obsidian Vault/Block Chain Project/Untitled.md",
+    "College/SEM - 7/Blockchain/Obsidian Vault/Block Chain Project",
+    "College/SEM - 7/Blockchain/Obsidian Vault",
+    "College/SEM - 7/Blockchain/New folder",
+    "College/SEM - 7/Blockchain",
+    "College/SEM - 7/New folder",
+    "BLOCKCHAIN/Explore 🔎.md",
+    "C/Data types 🗃️.md",
+    "College/SEM - 7/TARP/👨‍🔬 Research Topics.md",
+    "C/💽 Dynamic Memory Allocation.md",
+    "College/SEM - 7/TARP/Introduction.md",
+    "WEB SCRAPING/Open User's Browser.md",
+    "BLOCKCHAIN/Blockchain Basics ⛓.md",
+    "WEB SCRAPING",
+    "C/Logics C🤯.md",
+    "College/SEM - 7/TARP",
+    "College/SEM - 7",
+    "C/C Basics.md",
+    "PROJECT IDEAS/Website Replication.md",
+    "HTML AND CSS/Images/Untitled.md",
+    "HTML AND CSS/CSS/CSS Backgrounds 🌄/Background-Repeat 🔁 and Position.md",
+    "HTML AND CSS/CSS/CSS Backgrounds 🌄/Background-color 🚵‍♀️.md",
+    "PROJECT IDEAS/Simple Prompting App.md",
+    "PROJECT IDEAS/Simple HTML and CSS.md",
+    "HTML AND CSS/CSS/CSS Backgrounds 🌄/Background-image 🖼.md",
+    "HTML AND CSS/CSS/Comments.md",
+    "().md",
+    "HTML AND CSS/CSS/Explore 🕵️‍♂️.md",
+    "HTML AND CSS/CSS/CSS selectors.md",
+    "HTML AND CSS/CSS/CSS Colors 🎨.md",
+    "HTML AND CSS/Images/background color css.png",
+    "PROJECT IDEAS/Images/Scrollbar.png",
+    "HTML AND CSS/Images/Colspan and Rowspan Example.png"
+  ]
+}
