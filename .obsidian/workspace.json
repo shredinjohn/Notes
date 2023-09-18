@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sites/FrontEnd.md",
+                "file": "C/Logics C 🤯.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "375431c7c79a7141",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "type",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sites/FrontEnd.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sites/FrontEnd.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sites/FrontEnd.md"
+                "file": "README.md"
               }
             }
           }
@@ -171,8 +183,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ccde57aa72c36424",
+  "active": "375431c7c79a7141",
   "lastOpenFiles": [
+    "WEB SCRAPING/Open User's Browser.md",
+    "College/SEM - 7/CAT !/Deep learning.md",
+    "BLOCKCHAIN/Blockchain College Project ⛓️.md",
+    "College/SEM - 7/CAT !",
+    "C/Data types 🗃️.md",
+    "C/Logics C 🤯.md",
+    "C/C Basics.md",
     "README.md",
     "New Text Document.txt",
     "College/SEM - 7/TARP/👨‍🔬 Research Topics.md",
@@ -181,11 +200,7 @@
     "Sites",
     "College/SEM - 7/TARP/Introduction.md",
     "BLOCKCHAIN/Blockchain Basics ⛓.md",
-    "C/Data types 🗃️.md",
-    "C/Logics C 🤯.md",
-    "C/C Basics.md",
     "HTML AND CSS/CSS/Explore 🕵️‍♂️.md",
-    "BLOCKCHAIN/Blockchain College Project ⛓️.md",
     "HTML AND CSS/Images/Pasted image 20230827181511.png",
     "Git/Git Cheat Sheet 📝.md",
     "Notes",
@@ -197,10 +212,8 @@
     "College/SEM - 7/Blockchain/Obsidian Vault/Block Chain Project",
     "College/SEM - 7/Blockchain/Obsidian Vault",
     "College/SEM - 7/Blockchain/New folder",
-    "College/SEM - 7/Blockchain",
     "BLOCKCHAIN/Explore 🔎.md",
     "C/💽 Dynamic Memory Allocation.md",
-    "WEB SCRAPING/Open User's Browser.md",
     "PROJECT IDEAS/Website Replication.md",
     "HTML AND CSS/Images/Untitled.md",
     "HTML AND CSS/CSS/CSS Backgrounds 🌄/Background-Repeat 🔁 and Position.md",
@@ -210,7 +223,6 @@
     "HTML AND CSS/CSS/CSS Backgrounds 🌄/Background-image 🖼.md",
     "HTML AND CSS/CSS/Comments.md",
     "().md",
-    "HTML AND CSS/CSS/CSS selectors.md",
     "HTML AND CSS/Images/background color css.png",
     "PROJECT IDEAS/Images/Scrollbar.png",
     "HTML AND CSS/Images/Colspan and Rowspan Example.png"
