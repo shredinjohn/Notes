@@ -49,14 +49,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Git/Git Cheat Sheet 📝.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e038858a6d0d698",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Web Design 🎨.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57d09ca6ca653450",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/CSS Libraries 🖼️.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5cf705f5549fc489",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/CSS Libraries 🖼️.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c900857bb656686",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Web Design 🎨.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -122,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Tools/Web Design 🎨.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Tools/Web Design 🎨.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Tools/Web Design 🎨.md"
               }
             }
           }
@@ -183,8 +231,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "375431c7c79a7141",
+  "active": "2c900857bb656686",
   "lastOpenFiles": [
+    "Tools/Books Link 📖.md",
+    "Tools/CSS Libraries 🖼️.md",
+    "Tools/Quick Notes on Everything 📝.md",
+    "Tools/Web Design 🎨.md",
+    "Git/Git Cheat Sheet 📝.md",
+    "Tools",
+    "HTML AND CSS/CSS/Comments.md",
+    "HTML AND CSS/CSS/CSS Colors 🎨.md",
+    "HTML AND CSS/HTML/Lists.md",
+    "HTML AND CSS/HTML/Tables.md",
+    "README.md",
     "WEB SCRAPING/Open User's Browser.md",
     "College/SEM - 7/CAT !/Deep learning.md",
     "BLOCKCHAIN/Blockchain College Project ⛓️.md",
@@ -192,7 +251,6 @@
     "C/Data types 🗃️.md",
     "C/Logics C 🤯.md",
     "C/C Basics.md",
-    "README.md",
     "New Text Document.txt",
     "College/SEM - 7/TARP/👨‍🔬 Research Topics.md",
     "Sites/FrontEnd.md",
@@ -202,7 +260,6 @@
     "BLOCKCHAIN/Blockchain Basics ⛓.md",
     "HTML AND CSS/CSS/Explore 🕵️‍♂️.md",
     "HTML AND CSS/Images/Pasted image 20230827181511.png",
-    "Git/Git Cheat Sheet 📝.md",
     "Notes",
     "Git/Images/Pasted image 20230826194230.png",
     "Git/Images",
@@ -211,18 +268,9 @@
     "College/SEM - 7/Blockchain/Obsidian Vault/Block Chain Project/Untitled.md",
     "College/SEM - 7/Blockchain/Obsidian Vault/Block Chain Project",
     "College/SEM - 7/Blockchain/Obsidian Vault",
-    "College/SEM - 7/Blockchain/New folder",
     "BLOCKCHAIN/Explore 🔎.md",
     "C/💽 Dynamic Memory Allocation.md",
     "PROJECT IDEAS/Website Replication.md",
-    "HTML AND CSS/Images/Untitled.md",
-    "HTML AND CSS/CSS/CSS Backgrounds 🌄/Background-Repeat 🔁 and Position.md",
-    "HTML AND CSS/CSS/CSS Backgrounds 🌄/Background-color 🚵‍♀️.md",
-    "PROJECT IDEAS/Simple Prompting App.md",
-    "PROJECT IDEAS/Simple HTML and CSS.md",
-    "HTML AND CSS/CSS/CSS Backgrounds 🌄/Background-image 🖼.md",
-    "HTML AND CSS/CSS/Comments.md",
-    "().md",
     "HTML AND CSS/Images/background color css.png",
     "PROJECT IDEAS/Images/Scrollbar.png",
     "HTML AND CSS/Images/Colspan and Rowspan Example.png"
