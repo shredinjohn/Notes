@@ -7,4 +7,8 @@
 ### React Design 
 - [NextUI](https://nextui.org/) - Latest UI Library 
 - [Jitter Video](https://jitter.video/) - GIF and video design for website.
+
+
+### AI Chatbots
+- [Dante ](https://dante-ai.com/) - Ai chatbot creator
 - 
