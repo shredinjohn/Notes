@@ -4,35 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "f68893debb85b601",
+        "id": "5d5a5219b5677b89",
         "type": "tabs",
         "children": [
           {
-            "id": "2ef80506592878dc",
+            "id": "97428ebccd2c3b88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/C Basics.md",
+                "file": "HTML AND CSS/CSS/CSS Extras 👾.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f6962a102203531e",
+            "id": "91b2a355272ddd40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cheat Sheets 📔.md",
+                "file": "HTML AND CSS/CSS/CSS Extras 👾.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "abd500426822faca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Web Design 🎨.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "type",
+                "query": "#trans",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cheat Sheets 📔.md",
+                "file": "Tools/Web Design 🎨.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cheat Sheets 📔.md",
+                "file": "Tools/Web Design 🎨.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cheat Sheets 📔.md"
+                "file": "Tools/Web Design 🎨.md"
               }
             }
           },
@@ -169,10 +181,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6962a102203531e",
+  "active": "abd500426822faca",
   "lastOpenFiles": [
-    "C/C Basics.md",
     "Cheat Sheets 📔.md",
+    "CSS Word Wrapping 📑.md",
+    "HTML AND CSS/CSS/CSS Extras 👾.md",
+    "HTML AND CSS/CSS/CSS Colors 🎨.md",
+    "HTML AND CSS/CSS/CSS Gradient 🎨.md",
+    "HTML AND CSS/CSS/CSS selectors.md",
+    "HTML AND CSS/CSS/Explore 🕵️‍♂️.md",
+    "C/C Basics.md",
+    "HTML AND CSS/CSS/CSS Color Keyword 🔑.md",
+    "HTML AND CSS/CSS/CSS Backgrounds 🌄/Background-color 🚵‍♀️.md",
+    "HTML AND CSS/CSS/External Stylesheet 📤.md",
+    "HTML AND CSS/CSS/Comments.md",
     "C/Logics C 🤯.md",
     "C/Data types 🗃️.md",
     "C/💽 Dynamic Memory Allocation.md",
@@ -188,21 +210,11 @@
     "Git/Git Cheat Sheet 📝.md",
     "Tools/Quick Notes on Everything 📝.md",
     "Tools",
-    "HTML AND CSS/CSS/Comments.md",
-    "HTML AND CSS/CSS/CSS Colors 🎨.md",
     "HTML AND CSS/HTML/Lists.md",
-    "HTML AND CSS/HTML/Tables.md",
-    "README.md",
-    "WEB SCRAPING/Open User's Browser.md",
-    "College/SEM - 7/CAT !/Deep learning.md",
-    "BLOCKCHAIN/Blockchain College Project ⛓️.md",
     "College/SEM - 7/CAT !",
     "New Text Document.txt",
-    "College/SEM - 7/TARP/👨‍🔬 Research Topics.md",
     "Frontend",
     "Sites",
-    "College/SEM - 7/TARP/Introduction.md",
-    "BLOCKCHAIN/Blockchain Basics ⛓.md",
     "HTML AND CSS/Images/Pasted image 20230827181511.png",
     "Notes",
     "Git/Images/Pasted image 20230826194230.png",

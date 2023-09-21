@@ -11,4 +11,6 @@
 
 ### AI Chatbots
 - [Dante ](https://dante-ai.com/) - Ai chatbot creator
-- 
+
+### Fonts 
+- [FreeFaces](https://www.freefaces.gallery/)
