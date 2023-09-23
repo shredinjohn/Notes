@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5d5a5219b5677b89",
+        "id": "0a5abdc24e1658d9",
         "type": "tabs",
         "children": [
           {
-            "id": "97428ebccd2c3b88",
+            "id": "f59b52009853e477",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML AND CSS/CSS/CSS Extras 👾.md",
+                "file": "C/Arrays 📦.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "91b2a355272ddd40",
+            "id": "4c933599d8c42330",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML AND CSS/CSS/CSS Extras 👾.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "abd500426822faca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools/Web Design 🎨.md",
+                "file": "BLOCKCHAIN/Solidity 🪨.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 202.5
   },
   "right": {
     "id": "8bb2d1855b7f37ed",
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/Web Design 🎨.md",
+                "file": "BLOCKCHAIN/Solidity 🪨.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/Web Design 🎨.md",
+                "file": "BLOCKCHAIN/Solidity 🪨.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/Web Design 🎨.md"
+                "file": "BLOCKCHAIN/Solidity 🪨.md"
               }
             }
           },
@@ -181,11 +169,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abd500426822faca",
+  "active": "4c933599d8c42330",
   "lastOpenFiles": [
+    "C/Arrays 📦.md",
+    "BLOCKCHAIN/Solidity 🪨.md",
+    "HTML AND CSS/CSS/CSS Basics 🔩/CSS Height and Width 🔝↔️.md",
+    "HTML AND CSS/CSS/CSS Basics 🔩/CSS Padding 🏓.md",
+    "HTML AND CSS/CSS/CSS Extras 👾.md",
+    "HTML AND CSS/CSS/CSS Basics 🔩/CSS Margins Ⓜ️.md",
+    "HTML AND CSS/CSS/CSS Basics 🔩/CSS Margins Collapse.md",
+    "HTML AND CSS/CSS/CSS Basics 🔩/CSS Borders 🛂.md",
+    "CSS Basics 🔩.md",
+    "HTML AND CSS/CSS/CSS Basics 🔩",
+    "Tools/Web Design 🎨.md",
     "Cheat Sheets 📔.md",
     "CSS Word Wrapping 📑.md",
-    "HTML AND CSS/CSS/CSS Extras 👾.md",
     "HTML AND CSS/CSS/CSS Colors 🎨.md",
     "HTML AND CSS/CSS/CSS Gradient 🎨.md",
     "HTML AND CSS/CSS/CSS selectors.md",
@@ -201,16 +199,7 @@
     "PROJECT IDEAS/Images/Scrollbar.png",
     "PROJECT IDEAS/Simple HTML and CSS.md",
     "PROJECT IDEAS/Simple Prompting App.md",
-    "PROJECT IDEAS/Website Replication.md",
-    "Sites/FrontEnd.md",
-    "Tools/Web Design 🎨.md",
-    "Tools/Insta Reach How-to 🕸️.md",
-    "Tools/Books Link 📖.md",
-    "Tools/CSS Libraries 🖼️.md",
-    "Git/Git Cheat Sheet 📝.md",
-    "Tools/Quick Notes on Everything 📝.md",
     "Tools",
-    "HTML AND CSS/HTML/Lists.md",
     "College/SEM - 7/CAT !",
     "New Text Document.txt",
     "Frontend",
@@ -221,7 +210,6 @@
     "Git/Images",
     "Git",
     "College/SEM - 7/Blockchain/Obsidian Vault/Block Chain Project",
-    "College/SEM - 7/Blockchain/Obsidian Vault",
     "HTML AND CSS/Images/background color css.png",
     "HTML AND CSS/Images/Colspan and Rowspan Example.png"
   ]

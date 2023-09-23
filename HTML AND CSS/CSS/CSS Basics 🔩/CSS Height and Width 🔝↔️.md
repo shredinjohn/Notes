@@ -1,0 +1,7 @@
+The `height` and `width` properties may have the following values:
+
+- `auto` - This is default. The browser calculates the height and width
+- `length` - Defines the height/width in px, cm, etc.
+- `%` - Defines the height/width in percent of the containing block
+- `initial` - Sets the height/width to its default value
+- `inherit` - The height/width will be inherited from its parent value
